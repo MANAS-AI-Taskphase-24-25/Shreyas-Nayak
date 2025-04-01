@@ -1,17 +1,22 @@
-# Task 4.0 -  Neural Networks
+# Task 6.0 - Reptile-Issues
 
 ## Description
-Dino Tim is impressed by the prowess of your Clustering algorithm, and he is feeling closer to his kin again. But something is missing, mad-scientist David Jijo suggested that Timothy has been neglecting the age-long Dino Tradition - preserving the teeth of his ancestors in their respective town-halls.
+Use opencv to help Tim consitently track the ball.
 
 ### Overview
 Timothy has the pictures of the teeth samples collected though, the only hurdle is to  classify those pictures as belonging to their respective dinos.
 
 
 ### Implementation
-The task is to implement a Neural Network from scratch for the teeth dataset given below, Train your model on Jijo's Secret Samples and predict the classes for the samples in Tim's Kins :
+The task is to use opencv functionalities and  track the trajectory of the ball in the given video of a volleyball match.<br>
+You may choose to either trace the ball's path, or highlight its current location while it moves. Also find the number of players in each team.<br>
+
+### output 
+Please download the `'I am atomic.mp4'`<br>
 <br>
-Jijo's Secret Samples<br>
-Tim's Kins<br>
+<br>
+![image](https://github.com/user-attachments/assets/072c228f-3843-426c-80d2-e909ee14da66)
+
 
 
 
