@@ -1,17 +1,16 @@
-# Task 4.0 -  Neural Networks
+# Task 5.0 -  ROS Basic Task
 
 ## Description
-Dino Tim is impressed by the prowess of your Clustering algorithm, and he is feeling closer to his kin again. But something is missing, mad-scientist David Jijo suggested that Timothy has been neglecting the age-long Dino Tradition - preserving the teeth of his ancestors in their respective town-halls.
-
-### Overview
-Timothy has the pictures of the teeth samples collected though, the only hurdle is to  classify those pictures as belonging to their respective dinos.
+Timothy is lost among a multitude of colors and needs to talk to Bob, create a simple Chat interface using minimal publisher and subscriber nodes in ROS2 to facilitate the same.
 
 
 ### Implementation
-The task is to implement a Neural Network from scratch for the teeth dataset given below, Train your model on Jijo's Secret Samples and predict the classes for the samples in Tim's Kins :
-<br>
-Jijo's Secret Samples<br>
-Tim's Kins<br>
+The task is to create a simple chat interface using ros2 publisher and subscriber nodes.<br>
+You need to use ROS2 publisher and subscriber to implement this functionality<br>
+Implement it using C++(preferably) or Python<br>
+You should be able to send multiple messages without waiting for a reply.<br>
+
+
 
 
 
