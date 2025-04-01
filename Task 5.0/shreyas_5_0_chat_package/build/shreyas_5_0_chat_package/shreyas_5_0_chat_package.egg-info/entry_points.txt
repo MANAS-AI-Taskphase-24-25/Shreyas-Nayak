@@ -1,0 +1,4 @@
+[console_scripts]
+chat_publisher = shreyas_5_0_chat_package.chat_publisher:main
+chat_subscriber = shreyas_5_0_chat_package.chat_subscriber:main
+

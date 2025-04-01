@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+build/shreyas_5_0_chat_package/shreyas_5_0_chat_package.egg-info/PKG-INFO
+build/shreyas_5_0_chat_package/shreyas_5_0_chat_package.egg-info/SOURCES.txt
+build/shreyas_5_0_chat_package/shreyas_5_0_chat_package.egg-info/dependency_links.txt
+build/shreyas_5_0_chat_package/shreyas_5_0_chat_package.egg-info/entry_points.txt
+build/shreyas_5_0_chat_package/shreyas_5_0_chat_package.egg-info/requires.txt
+build/shreyas_5_0_chat_package/shreyas_5_0_chat_package.egg-info/top_level.txt
+build/shreyas_5_0_chat_package/shreyas_5_0_chat_package.egg-info/zip-safe
+resource/shreyas_5_0_chat_package
+shreyas_5_0_chat_package/__init__.py
+shreyas_5_0_chat_package/chat_publisher.py
+shreyas_5_0_chat_package/chat_subscriber.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
