@@ -17,4 +17,4 @@ presenting an interesting challenge in handling high-dimensional, imbalanced dat
 The primary challenge in most cases is to to develop machine learning models that can effectively identify these rare threat events without being overwhelmed by the volume of non-threatening data .<br>
 Performance should be evaluated using metrics like AUC, F1 Score, Matthews Correlation Coefficient (MCC), or  recall rate, with an emphasis on robust cross-validation techniques.<br>
 <br>
-Approach This dataset offers an opportunity to test the use of models like decision trees and understand the train-test split on complex data.<br>
+Approach This dataset offers an opportunity to test the use of models like decision trees and understand the train-test split on complex data.<br> 
