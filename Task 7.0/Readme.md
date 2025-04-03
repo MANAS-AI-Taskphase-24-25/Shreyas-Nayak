@@ -28,6 +28,12 @@ Clone the following repo inside the src folder : path<br>
 Run the following commands in the root of your workspace:<br>
 pip install catkin_pkg<br>
 rosdep install --from-paths src --ignore-src -r -y<br>
+
+
+
+### Rqt graph
+![image](https://github.com/user-attachments/assets/71495329-fe4b-4df2-bfb5-8c0b916ee024)
+
 colcon-build<br>
 source install/setup.bash<br>
 ros2 launch path map_launch.py<br>
