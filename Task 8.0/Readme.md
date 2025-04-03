@@ -1,17 +1,21 @@
-# Task 4.0 -  Neural Networks
+# Task 8.0 -  Lord of the Strides
 
 ## Description
-Dino Tim is impressed by the prowess of your Clustering algorithm, and he is feeling closer to his kin again. But something is missing, mad-scientist David Jijo suggested that Timothy has been neglecting the age-long Dino Tradition - preserving the teeth of his ancestors in their respective town-halls.
+It's that time of the year again, Timothy is excited to see the bunch that has made it to the final task in the preliminary Taskphase and is throwing a party to his fellow friends(the descendants of those whose teeth you classified).<br>
+But he needs help feeding the right kind of stuff to the right dino, can you help him out?
 
 ### Overview
 Timothy has the pictures of the teeth samples collected though, the only hurdle is to  classify those pictures as belonging to their respective dinos.
 
 
 ### Implementation
-The task is to implement a Neural Network from scratch for the teeth dataset given below, Train your model on Jijo's Secret Samples and predict the classes for the samples in Tim's Kins :
-<br>
-Jijo's Secret Samples<br>
-Tim's Kins<br>
 
+Build a CNN to predict which class the image from the dataset belongs to.<br>
+You are allowed to use torch/tensorflow-keras to build the model, no pretrained models are allowed though.<br>
+Timothy is a visual learner, so he needs to see visualizations like confusion matrices, predictions, and graphs before he can trust your code.<br>
+
+<br>
+<br>
+Use the dataset attached to train your CNN, the dataset also contains vacation pictures, make sure to classify them as well .<br>
 
 

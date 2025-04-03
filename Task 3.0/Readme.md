@@ -10,4 +10,4 @@ Understand what is clustering, the different types of clustering and popular met
 ## Implementation
 Perform K-means clustering from scratch to cluster the given data. Look into ways to find the optimal number of clusters.
 After fitting a model print out the centers and try to intuitively explain them.
-Use PCA to visualize the clusters
+Use PCA to visualize the clusters 

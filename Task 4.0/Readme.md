@@ -11,7 +11,7 @@ Timothy has the pictures of the teeth samples collected though, the only hurdle 
 The task is to implement a Neural Network from scratch for the teeth dataset given below, Train your model on Jijo's Secret Samples and predict the classes for the samples in Tim's Kins :
 <br>
 Jijo's Secret Samples<br>
-Tim's Kins<br>
+Tim's Kins<br> 
 
 
 
